@@ -1,5 +1,5 @@
 {
-  "name": "betterlogs",
+  "name": "@rafe.daniels.official/betterlogs",
   "version": "1.0.0",
   "description": "Enhanced logger for NodeJS",
   "main": "index.js",
