@@ -1,0 +1,22 @@
+{
+  "name": "betterlogs",
+  "version": "1.0.0",
+  "description": "Enhanced logger for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "betterlogs",
+    "logtofile",
+    "log-to-file",
+    "logger"
+  ],
+  "repository": "https://github.com/rafatech-dev/betterlogs",
+  "author": "Rafe Daniels",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
