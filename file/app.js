@@ -9,7 +9,7 @@ const fs = require('fs');
  */
 function logToFile(name, text, delimiter = '\n') {
   // Define File
-  let file = `logs/${name}`
+  let file = name;
   
   // Define log text.
   // const logText = getDateAsText() + ' -> ' + text + delimiter;
