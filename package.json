@@ -1,6 +1,6 @@
 {
   "name": "@rafe.daniels.official/betterlogs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enhanced logger for NodeJS",
   "main": "index.js",
   "scripts": {
